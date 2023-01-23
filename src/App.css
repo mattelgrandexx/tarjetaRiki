@@ -1,6 +1,22 @@
+* {
+  margin:0; 
+  padding:0;
+}
+
+@media (min-width: 768px) {
+  .tamañoImagen{
+    width: 90%;
+  }
+}
+
+.fondo{
+  background-color: #EADCDB;
+}
+
 .App {
   text-align: center;
 }
+
 
 .App-logo {
   height: 40vmin;
